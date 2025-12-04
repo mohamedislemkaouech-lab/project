@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Login QR Code</title>
+</head>
+<body>
+<h1>Scanner le QR Code pour se connecter</h1>
+<img src="qr-login.png" alt="QR Code">
+<form action="/validate" method="post">
+    <input type="text" name="token" placeholder="Entrez le token scanné">
+    <button type="submit">Login</button>
+</form>
+</body>
+</html>

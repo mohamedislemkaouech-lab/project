@@ -1,0 +1,16 @@
+C:\Users\kaoue\IdeaProjects\project\src\main\java\security\SessionManager.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\server\ApiController.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\passwordless\MagicLinkService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\qrcode\QRAuthService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\security\CryptoService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\qrcode\QRCodeGenerator.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\security\TokenService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\org\example\Main.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\storage\UserRepository.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\passkey\CredentialRepository.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\passkey\WebAuthnService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\qrcode\QRCodeScanner.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\passkey\PasskeyManager.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\passwordless\PasswordlessService.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\server\AuthServer.java
+C:\Users\kaoue\IdeaProjects\project\src\main\java\storage\SessionRepository.java
